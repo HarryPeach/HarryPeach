@@ -1,4 +1,4 @@
-[<img src="https://user-images.githubusercontent.com/4750998/88400236-f5880080-cdbf-11ea-8722-e973700626c6.png">](http://harrypeach.co.uk/)
+[<img src="https://user-images.githubusercontent.com/4750998/102998787-c49f2980-451f-11eb-9d73-da4c3ec2ab83.png">](http://harrypeach.co.uk/)
 
 ## My Links 🌍
  - [GitLab](https://gitlab.com/b)
