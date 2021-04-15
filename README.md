@@ -2,7 +2,7 @@
 	<a href="https://harrypeach.co.uk/">
 		<img src="https://user-images.githubusercontent.com/4750998/102998787-c49f2980-451f-11eb-9d73-da4c3ec2ab83.png">
 	</a>
-	<br />
+	<div height="50">&nbsp;</div>
 	<a href="https://github.com/HarryPeach.gpg">
 		<img src="https://img.shields.io/badge/GPG-5A24B165D56227F3-ED45F0?style=flat-square&logo=gnu-privacy-guard"></img>
 	</a>
